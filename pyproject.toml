@@ -21,7 +21,7 @@ keywords = []
 
 [tool.poetry.dependencies]
 python = "^3.6"
-setuptools = "^58.1.0"
+setuptools = ">=33.0.0"
 
 [tool.poetry.dev-dependencies]
 black = "*"
