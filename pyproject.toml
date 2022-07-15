@@ -3,7 +3,7 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry]
-name = "nr.python.environment"
+name = "nr-python-environment"
 version = "0.1.1"
 description = ""
 authors = ["Unknown <me@unknown.org>"]
