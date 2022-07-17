@@ -13,4 +13,7 @@ graph or to collect the license of all packages used.
 
 __`python -m nr.python.environment.distributions`__
 
-Produce a CSV or JSON list of all distributions in the current Python environment.
+Produce a CSV or JSON list of all distributions in the current Python environment. It can be used for
+example to get an overview of the different types of licenses for the Python packages installed in an environment:
+
+    $ python -m nr.python.environment.distributions  | jq .license_name -r | sort | uniq
