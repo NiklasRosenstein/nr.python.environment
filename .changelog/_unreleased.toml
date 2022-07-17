@@ -1,0 +1,5 @@
+[[entries]]
+id = "658bb3ac-105f-4213-990a-964de7ce6018"
+type = "feature"
+description = "add `get_distributions_of()` and CLI for `nr.python.environment.distributions`"
+author = "@NiklasRosenstein"
