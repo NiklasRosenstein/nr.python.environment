@@ -1,0 +1,5 @@
+[[entries]]
+id = "46beb6a5-5c20-449b-a723-dad6caf58b58"
+type = "feature"
+description = "add `nr.python.environment.virtualenv` module"
+author = "@NiklasRosenstein"

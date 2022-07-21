@@ -29,6 +29,7 @@ flake8 = "*"
 isort = "*"
 mypy = "*"
 pytest = "*"
+types-dataclasses = "^0.6.6"
 
 [tool.slap]
 typed = true
